@@ -1,0 +1,57 @@
+body {
+    font-family: 'Arvo', serif;
+}
+.height {
+    min-height: 100vh
+}
+.title-underline {
+    width: 100px;
+    height: 5px;
+    margin: auto
+}
+.height-80 {
+    min-height: 80vh
+}
+.checkbox-item {
+    background: #fa6800
+}
+.about-picture {
+    background: url(../images/pexels-alex-andrews-1983036.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#project img {
+  height: 500px
+}
+#team img {
+    height: 500px;
+    min-height: 40vh
+}
+#filler {
+    background-image: url(../images/pexels-maria-geller-2127017.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+}
+#blog img {
+    height: 500px
+}
+#review img {
+    height: 250px
+}
+#progress-bar {
+    background-image: url(../images/pexels-edwin-josé-vega-ramos-2100018.jpg);
+    background-attachment: fixed;
+    background-repeat: round;
+    background-size: cover;
+}
+.nav-item a {
+    color: #fff 
+}
+.nav-item a:hover {
+    background: #b8860b 
+}
+#main-navbar {
+    background: #ff00ff
+}
